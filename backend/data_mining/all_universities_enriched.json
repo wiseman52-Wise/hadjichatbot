@@ -1,0 +1,728 @@
+[
+  {
+    "universite": "UGANC",
+    "sigle": "UGANC",
+    "faculte": "Faculté des Sciences et Techniques de la Santé (FSTS)",
+    "url": "https://uganc.edu.gn/facultes-et-instituts/7400-2/",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM"
+    ],
+    "moyenne_min": 12,
+    "filieres": [
+      {
+        "nom": "Médecine",
+        "duree": "7 ans",
+        "diplome": "Doctorat en Médecine",
+        "concours": true,
+        "note_speciale": "Concours d'entrée + mention au bac obligatoires. ~200 places totales.",
+        "debouches": "Médecin CHU, hôpitaux régionaux, ONG (MSF, IRC, UNICEF), médecin privé",
+        "conditions_admission": "Concours d'entrée obligatoire, mention au bac exigée, Bac SE/SE-FA uniquement",
+        "programme_resume": "6 années théoriques + 1 année de synthèse clinique dans les hôpitaux nationaux. Structuré en 4 départements: Sciences fondamentales, Médecine, Odontostomatologie, Pharmacie."
+      },
+      {
+        "nom": "Pharmacie",
+        "duree": "6 ans",
+        "diplome": "Doctorat en Pharmacie",
+        "concours": true,
+        "debouches": "Pharmacien officine/hospitalier, inspecteur médicaments, chercheur labo",
+        "conditions_admission": "Concours d'entrée obligatoire, mention au bac exigée",
+        "programme_resume": "5 années théoriques + 1 année de stage professionnel. Spécialisations en pharmacie clinique, industrie pharmaceutique, contrôle qualité."
+      },
+      {
+        "nom": "Odontostomatologie",
+        "duree": "6 ans",
+        "diplome": "Doctorat en Chirurgie Dentaire",
+        "concours": true,
+        "debouches": "Chirurgien-dentiste, orthodontiste, implantologiste",
+        "conditions_admission": "Concours d'entrée obligatoire",
+        "programme_resume": "Formation complète en soins dentaires, chirurgie buccale, orthodontie et prothèses dentaires."
+      },
+      {
+        "nom": "Sciences Fondamentales de la Santé",
+        "duree": "3 ans",
+        "diplome": "Licence",
+        "debouches": "Passerelle vers médecine, pharmacie ou master en santé publique. Technicien de santé.",
+        "programme_resume": "Socle commun en biologie, chimie, anatomie. Passerelle possible vers Médecine ou Pharmacie après réussite."
+      }
+    ]
+  },
+  {
+    "universite": "UGANC",
+    "sigle": "UGANC",
+    "faculte": "Faculté des Sciences (FS)",
+    "url": "https://uganc.edu.gn/facultes-et-instituts/7406-2/",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Mathématiques",
+        "duree": "3 ans (Licence) / 5 ans (Master)",
+        "debouches": "Enseignant-chercheur, statisticien, data scientist, actuaire, analyste quantitatif",
+        "programme_resume": "Analyse, algèbre, probabilités, statistiques, mathématiques appliquées. Système LMD. Évalué sur 180 crédits."
+      },
+      {
+        "nom": "Physique",
+        "duree": "3 ans (Licence) / 5 ans (Master)",
+        "debouches": "Enseignant-chercheur, ingénieur physique appliquée, technicien métrologie",
+        "programme_resume": "Mécanique classique, thermodynamique, électromagnétisme, physique quantique, physique nucléaire."
+      },
+      {
+        "nom": "Chimie",
+        "duree": "3 ans (Licence) / 5 ans (Master)",
+        "debouches": "Chimiste labo, contrôle qualité mines, enseignant, analyste environnemental",
+        "programme_resume": "Chimie générale, organique, minérale, analytique, biochimie. Accès au Master en chimie des matériaux."
+      },
+      {
+        "nom": "Biologie",
+        "duree": "3 ans (Licence) / 5 ans (Master)",
+        "bac_requis_specifique": [
+          "SE",
+          "SE-FA"
+        ],
+        "debouches": "Biologiste, agent santé publique, technicien labo, chercheur ONG",
+        "programme_resume": "Biologie cellulaire, génétique, écologie, microbiologie, zoologie, botanique. Débouché vers master en biochimie ou sciences de l'environnement."
+      },
+      {
+        "nom": "Biochimie",
+        "duree": "3 ans (Licence) / 5 ans (Master)",
+        "bac_requis_specifique": [
+          "SE",
+          "SE-FA"
+        ],
+        "debouches": "Technicien labo médical, chercheur biotechnologies, biochimiste industriel",
+        "programme_resume": "Biochimie structurale, enzymatique, métabolisme, biologie moléculaire. Passerelle naturelle vers la santé et l'agronomie."
+      }
+    ]
+  },
+  {
+    "universite": "UGANC",
+    "sigle": "UGANC",
+    "faculte": "Centre Informatique (CI)",
+    "url": "https://uganc.edu.gn/facultes-et-instituts/centre-informatique/",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM"
+    ],
+    "moyenne_min": 13,
+    "filieres": [
+      {
+        "nom": "NTIC (Nouvelles Technologies de l'Information et de la Communication)",
+        "duree": "3 ans",
+        "diplome": "Licence",
+        "debouches": "Administrateur réseau, développeur web/mobile, technicien cybersécurité, consultant IT, responsable SI",
+        "conditions_admission": "Bac SE/SE-FA/SM avec moy ≥ 13/20. Créé par coopération Franco-Guinéenne en 1989.",
+        "programme_resume": "Formation en réseaux informatiques, programmation web, bases de données, cybersécurité, administration systèmes. Système LMD. Actions de coopération internationale et formation de formateurs en informatique."
+      },
+      {
+        "nom": "Développement Logiciel",
+        "duree": "3 ans",
+        "diplome": "Licence",
+        "debouches": "Développeur fullstack, ingénieur cybersécurité, architecte logiciel, chef de projet IT, DevOps",
+        "programme_resume": "Génie logiciel, programmation orientée objet, développement mobile, sécurité informatique, gestion de projets IT. Possibilité de Master et Doctorat."
+      }
+    ]
+  },
+  {
+    "universite": "UGANC",
+    "sigle": "UGANC",
+    "faculte": "Institut Polytechnique (IP)",
+    "url": "https://uganc.edu.gn/facultes-et-instituts/institut-polytechnique/",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM"
+    ],
+    "moyenne_min": 14,
+    "filieres": [
+      {
+        "nom": "Génie Civil",
+        "duree": "5 ans",
+        "diplome": "Diplôme d'Ingénieur",
+        "debouches": "Ingénieur BTP, conducteur de travaux, chef de chantier, projets Simandou, SMB Winning",
+        "programme_resume": "Construction, structures, béton armé, routes et réseaux, hydraulique, topographie. Stages en entreprises partenaires (BTP, mines)."
+      },
+      {
+        "nom": "Génie Électrique",
+        "duree": "5 ans",
+        "diplome": "Diplôme d'Ingénieur",
+        "debouches": "Ingénieur EDG, ingénieur énergies renouvelables, responsable centrales électriques",
+        "programme_resume": "Électrotechnique, électronique de puissance, machines électriques, automatisme, énergies renouvelables."
+      },
+      {
+        "nom": "Génie Mécanique",
+        "duree": "5 ans",
+        "diplome": "Diplôme d'Ingénieur",
+        "debouches": "Ingénieur industriel, ingénieur secteur minier, responsable maintenance industrielle",
+        "programme_resume": "Mécanique des fluides, résistance des matériaux, thermodynamique, conception mécanique, fabrication assistée par ordinateur."
+      },
+      {
+        "nom": "Génie Chimique",
+        "duree": "5 ans",
+        "diplome": "Diplôme d'Ingénieur",
+        "debouches": "Ingénieur procédés, industrie minière (SMB, COBAD, CBG), chimiste industriel",
+        "programme_resume": "Thermochimie, cinétique chimique, génie des réacteurs, traitement des minerais, raffinage."
+      },
+      {
+        "nom": "Génie Informatique",
+        "duree": "5 ans",
+        "diplome": "Diplôme d'Ingénieur",
+        "debouches": "Ingénieur systèmes, architecte cloud, spécialiste intelligence artificielle, CTO",
+        "programme_resume": "Algorithmique avancée, architecture systèmes, cloud computing, big data, intelligence artificielle, cybersécurité avancée."
+      },
+      {
+        "nom": "Télécommunications",
+        "duree": "5 ans",
+        "diplome": "Diplôme d'Ingénieur",
+        "debouches": "Ingénieur télécom (Orange Guinée, MTN, Cellcom, Intercel), ingénieur réseaux mobiles 4G/5G",
+        "programme_resume": "Propagation des ondes, réseaux mobiles, fibre optique, protocoles de communication, systèmes embarqués."
+      },
+      {
+        "nom": "Génie Industriel et Maintenance",
+        "duree": "5 ans",
+        "diplome": "Diplôme d'Ingénieur",
+        "debouches": "Responsable production, ingénieur maintenance, directeur technique usine",
+        "programme_resume": "Organisation industrielle, GMAO (Gestion de Maintenance Assistée par Ordinateur), lean management, sécurité industrielle."
+      }
+    ]
+  },
+  {
+    "universite": "UGANC",
+    "sigle": "UGANC",
+    "faculte": "Institut des Chemins de Fer (ICF)",
+    "url": "https://uganc.edu.gn/facultes-et-instituts/institut-des-chemins-de-fer/",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM"
+    ],
+    "moyenne_min": 13,
+    "note_speciale": "Emploi quasi-garanti à la sortie (WCRG, SMB Winning, Simandou). Bourses Master/Doctorat en Chine disponibles.",
+    "filieres": [
+      {
+        "nom": "Ingénierie Ferroviaire",
+        "duree": "3-5 ans",
+        "diplome": "Licence ou Ingénieur",
+        "debouches": "Ingénieur voie ferrée WCRG (Winning Railway), ingénieur infrastructure SMB, expert ferroviaire Simandou",
+        "programme_resume": "Construction et maintenance des voies ferrées, géotechnique ferroviaire, résistance des rails, tunnels et ouvrages d'art."
+      },
+      {
+        "nom": "Communication et Signalisation Ferroviaire",
+        "duree": "3-5 ans",
+        "diplome": "Licence ou Ingénieur",
+        "debouches": "Ingénieur signalisation, technicien télécoms ferroviaires, responsable sécurité systèmes",
+        "programme_resume": "Systèmes de signalisation (ETCS), télécommunications ferroviaires, automatisation des aiguillages, gestion du trafic."
+      },
+      {
+        "nom": "Transport Ferroviaire",
+        "duree": "3 ans",
+        "diplome": "Licence",
+        "debouches": "Gestionnaire du trafic ferroviaire, logisticien, responsable exploitation WCRG",
+        "programme_resume": "Gestion du trafic, logistique ferroviaire, réglementation internationale, planification des horaires et des services."
+      },
+      {
+        "nom": "Matériels Roulants Ferroviaires",
+        "duree": "3-5 ans",
+        "diplome": "Licence ou Ingénieur",
+        "debouches": "Ingénieur maintenance locomotives, technicien matériel roulant, spécialiste SMB/Simandou",
+        "programme_resume": "Moteurs diesel et électriques, hydraulique ferroviaire, électronique embarquée, diagnostic et maintenance des locomotives."
+      }
+    ]
+  },
+  {
+    "universite": "Université de Kindia",
+    "sigle": "UK",
+    "faculte": "Faculté des Sciences Sociales (FSS)",
+    "bac_requis": [
+      "SS",
+      "SS-FA"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Histoire",
+        "duree": "3 ans",
+        "debouches": "Enseignant lycée/université, archiviste, agent diplomatique, journaliste, documentaliste",
+        "programme_resume": "Histoire ancienne, médiévale, moderne et contemporaine. Histoire de l'Afrique et de la Guinée. Méthodologie de la recherche historique."
+      },
+      {
+        "nom": "Géographie Humaine",
+        "duree": "3 ans",
+        "debouches": "Géographe, urbaniste, aménageur du territoire, ONG développement, fonctionnaire",
+        "programme_resume": "Cartographie, démographie, géopolitique, aménagement du territoire, développement local."
+      },
+      {
+        "nom": "Sociologie",
+        "duree": "3 ans",
+        "debouches": "Sociologue, travailleur social, consultant ONG, agent développement communautaire",
+        "programme_resume": "Sociologie générale, sociologie du développement, recherche sociale, anthropologie sociale."
+      },
+      {
+        "nom": "Philosophie",
+        "duree": "3 ans",
+        "debouches": "Enseignant, conseiller éthique, journaliste, agent de la fonction publique",
+        "programme_resume": "Logique, épistémologie, philosophie africaine, éthique, histoire de la philosophie."
+      }
+    ]
+  },
+  {
+    "universite": "Université de Kindia",
+    "sigle": "UK",
+    "faculte": "Faculté des Langues et Lettres (FLL)",
+    "bac_requis": [
+      "SS",
+      "SS-FA",
+      "SE-FA"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Lettres Modernes",
+        "duree": "3 ans",
+        "debouches": "Enseignant, écrivain, journaliste, traducteur, agent culturel",
+        "programme_resume": "Littérature française et africaine, grammaire, stylistique, sémiotique, littérature comparée."
+      },
+      {
+        "nom": "Langue Anglaise",
+        "duree": "3 ans",
+        "debouches": "Professeur d'anglais, interprète, traducteur, agent diplomatique, assistant bilingue entreprise",
+        "programme_resume": "Linguistique anglaise, civilisation américaine et britannique, traduction, littérature anglophone."
+      },
+      {
+        "nom": "Sciences du Langage (Linguistique)",
+        "duree": "3 ans",
+        "debouches": "Linguiste, traducteur, chercheur en langues africaines, lexicographe",
+        "programme_resume": "Phonologie, morphologie, syntaxe, linguistique africaine, sémantique, langues guinéennes (Pular, Malinké, Soussou)."
+      }
+    ]
+  },
+  {
+    "universite": "Université de Kindia",
+    "sigle": "UK",
+    "faculte": "Faculté des Sciences Économiques et de Gestion (FSEG)",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM",
+      "SS"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Gestion",
+        "duree": "3 ans",
+        "debouches": "Manager entreprise, responsable RH, consultant, directeur administratif, DRH",
+        "programme_resume": "Management des organisations, comptabilité, marketing, ressources humaines, gestion de projets."
+      },
+      {
+        "nom": "Économie",
+        "duree": "3 ans",
+        "debouches": "Économiste, analyste économique, conseiller économique gouvernement, chercheur",
+        "programme_resume": "Microéconomie, macroéconomie, économétrie, développement économique, économie internationale."
+      },
+      {
+        "nom": "Banque, Finance et Assurance",
+        "duree": "3 ans",
+        "debouches": "Banquier, analyste financier, actuaire, agent assurance, gestionnaire de portefeuille",
+        "programme_resume": "Marchés financiers, gestion de risques, mathématiques financières, droit bancaire, assurance vie et non-vie."
+      }
+    ]
+  },
+  {
+    "universite": "Université de Labé",
+    "sigle": "UL",
+    "faculte": "Faculté des Sciences et Techniques",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "MIAGE (Méthodes Informatiques Appliquées à la Gestion des Entreprises)",
+        "duree": "3 ans",
+        "moyenne_min": 12,
+        "debouches": "Analyste SI (Systèmes d'Information), gestionnaire ERP, chef de projet informatique, consultant IT",
+        "programme_resume": "Informatique de gestion, bases de données, systèmes d'information, gestion de projets, comptabilité informatisée. Profil hybride informatique + gestion très recherché."
+      },
+      {
+        "nom": "Informatique",
+        "duree": "3 ans",
+        "moyenne_min": 12,
+        "debouches": "Développeur logiciel, administrateur réseau, technicien support IT, webmaster",
+        "programme_resume": "Programmation (Python, Java, C), réseaux, bases de données, développement web, systèmes d'exploitation. Lab-in-Tech disponible pour les pratiques numériques."
+      },
+      {
+        "nom": "Énergie Photovoltaïque",
+        "duree": "3 ans",
+        "moyenne_min": 12,
+        "debouches": "Technicien solaire, ingénieur énergie renouvelable, installateur systèmes solaires, conseiller énergétique",
+        "programme_resume": "Physique des semi-conducteurs, installation panneaux solaires, onduleurs, stockage d'énergie, audit énergétique. Secteur en forte croissance en Guinée."
+      },
+      {
+        "nom": "Chimie et Environnement",
+        "duree": "3 ans",
+        "moyenne_min": 10,
+        "debouches": "Chimiste, agent environnement, technicien contrôle qualité, inspecteur pollution",
+        "programme_resume": "Chimie analytique, chimie de l'environnement, traitement des eaux, gestion des déchets, évaluation d'impact environnemental."
+      },
+      {
+        "nom": "Mathématiques",
+        "duree": "3 ans",
+        "moyenne_min": 10,
+        "debouches": "Enseignant, statisticien, actuaire, data analyst",
+        "programme_resume": "Analyse mathématique, algèbre, statistiques, probabilités, mathématiques pour la gestion."
+      }
+    ]
+  },
+  {
+    "universite": "Université de Labé",
+    "sigle": "UL",
+    "faculte": "Faculté des Sciences Administratives et de Gestion",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM",
+      "SS"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Administration Publique",
+        "duree": "3 ans",
+        "debouches": "Fonctionnaire, agent de l'État, secrétaire général mairie, coordinateur programme ONG",
+        "programme_resume": "Droit administratif, finances publiques, politiques publiques, management des organisations publiques, décentralisation."
+      },
+      {
+        "nom": "Gestion",
+        "duree": "3 ans",
+        "debouches": "Gestionnaire entreprise, comptable, DRH, chef de projet",
+        "programme_resume": "Comptabilité générale et analytique, finance d'entreprise, marketing, management stratégique."
+      },
+      {
+        "nom": "Économie",
+        "duree": "3 ans",
+        "debouches": "Économiste, analyste, conseiller économique, chercheur",
+        "programme_resume": "Microéconomie, macroéconomie, économie du développement, économétrie."
+      },
+      {
+        "nom": "Économie Statistique",
+        "duree": "3 ans",
+        "moyenne_min": 12,
+        "debouches": "Statisticien, économètre, agent INS (Institut National de la Statistique), data analyst",
+        "programme_resume": "Statistiques avancées, sondages, séries temporelles, économétrie, démographie."
+      }
+    ]
+  },
+  {
+    "universite": "Université Julius Nyerere de Kankan",
+    "sigle": "UJNK",
+    "faculte": "Faculté des Lettres, Sciences Humaines et Documentation",
+    "bac_requis": [
+      "SS",
+      "SS-FA"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Gestion et Conservation des Patrimoines Documentaires",
+        "duree": "3 ans",
+        "debouches": "Archiviste, conservateur patrimoine, bibliothécaire nationale, directeur centres culturels",
+        "programme_resume": "Archivistique, bibliothéconomie, conservation du patrimoine documentaire guinéen, numérisation des archives."
+      },
+      {
+        "nom": "Documentation et Métiers du Livre",
+        "duree": "3 ans",
+        "debouches": "Bibliothécaire, documentaliste, éditeur, gestionnaire de médiathèque",
+        "programme_resume": "Sciences de l'information, catalogage, indexation, veille informationnelle, gestion des bibliothèques numériques."
+      },
+      {
+        "nom": "Histoire",
+        "duree": "3 ans",
+        "debouches": "Enseignant, chercheur, journaliste, agent diplomatique, agent de musée",
+        "programme_resume": "Histoire de la Guinée, histoire précoloniale et coloniale de l'Afrique de l'Ouest, histoire contemporaine."
+      },
+      {
+        "nom": "Langue Anglaise",
+        "duree": "3 ans",
+        "debouches": "Professeur d'anglais, interprète, traducteur, guide touristique, chargé de communication bilingue",
+        "programme_resume": "Linguistique anglaise, traduction, littérature anglophone africaine, communication internationale."
+      },
+      {
+        "nom": "Langue Arabe",
+        "duree": "3 ans",
+        "bac_requis_specifique": [
+          "SS-FA",
+          "SE-FA"
+        ],
+        "debouches": "Traducteur arabe-français, interprète, diplomate, enseignant, chargé de mission OCI",
+        "programme_resume": "Langue et littérature arabe classique et moderne, traduction, civilisation islamique, communication interculturelle."
+      }
+    ]
+  },
+  {
+    "universite": "Université Julius Nyerere de Kankan",
+    "sigle": "UJNK",
+    "faculte": "Faculté des Sciences de la Nature",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Biologie",
+        "duree": "3 ans",
+        "bac_requis_specifique": [
+          "SE",
+          "SE-FA"
+        ],
+        "debouches": "Biologiste, agent santé publique, technicien labo, enseignant-chercheur",
+        "programme_resume": "Biologie cellulaire, génétique, écologie, botanique tropicale, zoologie. Recherche possible sur la biodiversité du Milo."
+      },
+      {
+        "nom": "Chimie",
+        "duree": "3 ans",
+        "debouches": "Chimiste labo, technicien qualité, enseignant, analyste environnemental",
+        "programme_resume": "Chimie générale, organique et minérale. Master en Physico-chimie des Matériaux disponible."
+      },
+      {
+        "nom": "Mathématiques",
+        "duree": "3 ans",
+        "debouches": "Enseignant, statisticien, actuaire, chercheur",
+        "programme_resume": "Analyse, algèbre, probabilités, statistiques appliquées au développement."
+      },
+      {
+        "nom": "Physique",
+        "duree": "3 ans",
+        "debouches": "Enseignant, ingénieur physique appliquée, technicien métrologie",
+        "programme_resume": "Mécanique, électromagnétisme, thermodynamique, physique des matériaux."
+      }
+    ]
+  },
+  {
+    "universite": "Université de N'Zérékoré",
+    "sigle": "UZ",
+    "faculte": "Sciences de l'Environnement et Ingénierie",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM"
+    ],
+    "moyenne_min": 11,
+    "filieres": [
+      {
+        "nom": "Ingénierie en Gestion des Ressources Naturelles",
+        "duree": "3 ans",
+        "debouches": "Gestionnaire ressources naturelles, agent eaux et forêts, consultant ONG environnement, FAO",
+        "programme_resume": "Gestion durable des forêts tropicales, biodiversité, agroforesterie, conservation. Spécialité unique en Guinée Forestière."
+      },
+      {
+        "nom": "Ingénierie en Hydrologie",
+        "duree": "3 ans",
+        "debouches": "Hydrologue, ingénieur eaux, expert eau UNICEF/ONG, agent Direction Nationale des Ressources en Eau",
+        "programme_resume": "Cycle de l'eau, basins versants, qualité de l'eau, hydraulique fluviale, gestion des ressources en eau."
+      },
+      {
+        "nom": "Ingénierie en Sciences de l'Atmosphère",
+        "duree": "3 ans",
+        "debouches": "Météorologue, climatologue, agent Direction Nationale Météo, chercheur changement climatique",
+        "programme_resume": "Météorologie synoptique, climatologie tropicale, changement climatique, prévision numérique du temps."
+      },
+      {
+        "nom": "Ingénierie en Sciences de l'Environnement",
+        "duree": "3 ans",
+        "debouches": "Ingénieur environnement, évaluateur impact EIE (Étude d'Impact Environnemental), consultant mines",
+        "programme_resume": "Droit environnemental, évaluation d'impact, gestion des déchets miniers, pollution industrielle. Très utile pour le secteur minier guinéen."
+      }
+    ]
+  },
+  {
+    "universite": "Institut Supérieur des Mines et Géologie de Boké",
+    "sigle": "ISMGB",
+    "faculte": "Sciences Minières et Géologiques",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM"
+    ],
+    "moyenne_min": 12,
+    "filieres": [
+      {
+        "nom": "Géologie Minière",
+        "duree": "3 ans",
+        "debouches": "Géologue de mine (CBG, SMB, Simandou, COBAD), prospecteur, expert en gisements, consultant international",
+        "programme_resume": "Minéralogie, pétrographie, géologie structurale, prospection minière, cartographie géologique. La Guinée possède les plus grandes réserves mondiales de bauxite."
+      },
+      {
+        "nom": "Géotechnique et Exploitation Minière",
+        "duree": "3 ans",
+        "debouches": "Ingénieur mine, responsable sécurité mine, géotechnicien carrières, directeur exploitation",
+        "programme_resume": "Mécanique des roches, explosifs et minage, ventilation, stabilité des talus, planification mine à ciel ouvert."
+      },
+      {
+        "nom": "Traitement des Minerais et Hydrométallurgie",
+        "duree": "3 ans",
+        "debouches": "Ingénieur traitement, chimiste hydrométallurgiste, responsable usine de traitement CBG/SMB",
+        "programme_resume": "Concassage, broyage, flottation, hydrométallurgie, pyrométallurgie, raffinage de la bauxite en alumine."
+      }
+    ]
+  },
+  {
+    "universite": "Université Général Lansana Conté de Sonfonia",
+    "sigle": "UGLCS",
+    "faculte": "Faculté des Sciences Juridiques et Politiques",
+    "bac_requis": [
+      "SS",
+      "SS-FA"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Droit public",
+        "duree": "3 ans",
+        "debouches": "Magistrat, avocat, fonctionnaire, conseiller juridique, diplomate",
+        "programme_resume": "Droit constitutionnel, droit administratif, droit international public, libertés publiques."
+      },
+      {
+        "nom": "Droit privé",
+        "duree": "3 ans",
+        "debouches": "Avocat, juriste d'entreprise, notaire, huissier, magistrat",
+        "programme_resume": "Droit civil, droit des affaires, droit du travail, droit pénal, procédure civile."
+      },
+      {
+        "nom": "Sciences politiques",
+        "duree": "3 ans",
+        "debouches": "Analyste politique, diplomate, journaliste politique, fonctionnaire international",
+        "programme_resume": "Histoire politique, relations internationales, sociologie politique, politiques publiques."
+      }
+    ]
+  },
+  {
+    "universite": "Université Général Lansana Conté de Sonfonia",
+    "sigle": "UGLCS",
+    "faculte": "Faculté des Sciences Économiques et de Gestion",
+    "bac_requis": [
+      "SE",
+      "SE-FA",
+      "SM",
+      "SS"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Sciences Économiques",
+        "duree": "3 ans",
+        "debouches": "Économiste, analyste, chercheur, conseiller économique",
+        "programme_resume": "Microéconomie, macroéconomie, économétrie, développement économique."
+      },
+      {
+        "nom": "Administration des Affaires",
+        "duree": "3 ans",
+        "debouches": "Manager, chef d'entreprise, consultant en management, responsable administratif",
+        "programme_resume": "Management, stratégie d'entreprise, ressources humaines, marketing, entrepreneuriat."
+      },
+      {
+        "nom": "Sciences Comptables",
+        "duree": "3 ans",
+        "debouches": "Comptable, auditeur, contrôleur de gestion, expert-comptable",
+        "programme_resume": "Comptabilité financière, comptabilité analytique, audit, contrôle de gestion, fiscalité."
+      },
+      {
+        "nom": "Banques et Finances",
+        "duree": "3 ans",
+        "debouches": "Banquier, analyste financier, conseiller clientèle, gestionnaire de risques",
+        "programme_resume": "Économie bancaire, finance d'entreprise, marchés financiers, gestion des risques."
+      },
+      {
+        "nom": "Gestion Logistique et Transport",
+        "duree": "3 ans",
+        "debouches": "Logisticien, responsable supply chain, transitaire, gestionnaire de flotte",
+        "programme_resume": "Logistique internationale, gestion des stocks, transport de marchandises, douane."
+      }
+    ]
+  },
+  {
+    "universite": "Université Général Lansana Conté de Sonfonia",
+    "sigle": "UGLCS",
+    "faculte": "Faculté des Sciences Sociales",
+    "bac_requis": [
+      "SS",
+      "SS-FA"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Sociologie",
+        "duree": "3 ans",
+        "debouches": "Sociologue, travailleur social, chargé d'études, animateur communautaire",
+        "programme_resume": "Sociologie générale, sociologie du développement, anthropologie, méthodes d'enquête."
+      },
+      {
+        "nom": "Histoire",
+        "duree": "3 ans",
+        "debouches": "Enseignant, chercheur, archiviste, agent du patrimoine",
+        "programme_resume": "Histoire de l'Afrique, histoire de la Guinée, histoire contemporaine, historiographie."
+      },
+      {
+        "nom": "Géographie",
+        "duree": "3 ans",
+        "debouches": "Géographe, urbaniste, cartographe, spécialiste en environnement",
+        "programme_resume": "Géographie physique, géographie humaine, aménagement du territoire, cartographie SIG."
+      },
+      {
+        "nom": "Philosophie",
+        "duree": "3 ans",
+        "debouches": "Enseignant, chercheur, conseiller, journaliste",
+        "programme_resume": "Histoire de la philosophie, métaphysique, éthique, philosophie politique."
+      }
+    ]
+  },
+  {
+    "universite": "Université Général Lansana Conté de Sonfonia",
+    "sigle": "UGLCS",
+    "faculte": "Faculté des Lettres et Sciences du Langage",
+    "bac_requis": [
+      "SS",
+      "SS-FA"
+    ],
+    "moyenne_min": 10,
+    "filieres": [
+      {
+        "nom": "Lettres Modernes",
+        "duree": "3 ans",
+        "debouches": "Enseignant, écrivain, éditeur, journaliste, critique littéraire",
+        "programme_resume": "Littérature française, littérature africaine, grammaire, stylistique."
+      },
+      {
+        "nom": "Sciences du Langage",
+        "duree": "3 ans",
+        "debouches": "Linguiste, chercheur, traducteur, spécialiste des langues nationales",
+        "programme_resume": "Phonétique, phonologie, syntaxe, sémantique, linguistique africaine."
+      },
+      {
+        "nom": "Langue Anglaise",
+        "duree": "3 ans",
+        "debouches": "Professeur d'anglais, traducteur, interprète, guide touristique",
+        "programme_resume": "Linguistique anglaise, littérature anglophone, traduction, civilisation."
+      },
+      {
+        "nom": "Langue et Civilisation arabes",
+        "duree": "3 ans",
+        "bac_requis_specifique": [
+          "SS-FA"
+        ],
+        "debouches": "Enseignant, traducteur, interprète, diplomate",
+        "programme_resume": "Langue arabe, littérature arabe, civilisation arabo-islamique, traduction."
+      }
+    ]
+  }
+]
